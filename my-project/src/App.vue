@@ -21,6 +21,8 @@
         <div class="cart__detail">
           <div class="detail--left">
             <h1 id="delivery--title">Delivery Details</h1>
+
+
           </div>
           <div class="vl"></div>
           <div class="detail--right">
@@ -45,7 +47,7 @@
                 </tbody>
               </table>
 
-              <button type="button" class="button__style"><h2>Continue to Payment</h2></button>
+              <button type="button" class="button__style">Continue to Payment</button>
             </div>
           </div>
         </div>
